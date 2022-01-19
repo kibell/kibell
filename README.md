@@ -1,6 +1,6 @@
-### Hi there 👋
 
-www.kitrickbell.com
+
+                                             View my Website: www.kitrickbell.com
 
 
 ![App Screenshot](kb.gif)
