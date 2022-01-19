@@ -1,6 +1,6 @@
 
 
-                                             View my Website: www.kitrickbell.com
+                                                       www.kitrickbell.com
 
 
 ![App Screenshot](kb.gif)
