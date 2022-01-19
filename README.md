@@ -3,7 +3,7 @@
 www.kitrickbell.com
 
 
-![App Screenshot](kb.png)
+![App Screenshot](kb.gif)
 <!--
 **kibell/kibell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
