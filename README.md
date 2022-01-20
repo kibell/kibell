@@ -1,6 +1,5 @@
 
 
-                                                       www.kitrickbell.com
 
 
 ![App Screenshot](kb.gif)
@@ -18,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+www.kitrickbell.com
